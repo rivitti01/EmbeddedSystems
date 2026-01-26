@@ -5,6 +5,8 @@ The model was trained and optimized using **[Edge Impulse](https://www.edgeimpul
 
 The resulting model can run directly on **Arduino boards** that support TensorFlow Lite Micro.   
 
+![til](https://github.com/rivitti01/EmbeddedSystems/blob/main/demo-embeddedSystems.gif)
+
 ---
 
 ## 🚀 Features
